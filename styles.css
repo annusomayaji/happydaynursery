@@ -433,11 +433,15 @@ footer{
 
 /*style for typical-day page*/
 .typical-day{
-   width:100%;
-    
+	width:90%;
+    margin:auto;
+	text-align:justify;
 }
+
+
 .typical-day img{
-    
+	
+	display:none;  
 }
 .more{
 	display:none;
